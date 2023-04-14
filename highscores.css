@@ -1,5 +1,5 @@
 h1 {
-    font-size: 1.9rem;
+    font-size: 2.5rem;
     position: relative;
     text-align: center;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -32,7 +32,6 @@ table, th, td {
     padding: 1rem 0;
     width: 20rem;
     text-align: center;
-    margin: 0 auto;
     border: 0.1rem solid #f11004;
     margin-bottom: 1rem;
     text-decoration: none;
@@ -44,5 +43,13 @@ table, th, td {
 
   body {
     background-image: url(https://images.pexels.com/photos/106152/euro-coins-currency-money-106152.jpeg?cs=srgb&dl=pexels-pixabay-106152.jpg&fm=jpg);
+  }
+
+  .container {
+    text-align: center;
+  }
+
+  .test {
+    text-align: center;
   }
   
