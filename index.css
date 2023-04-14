@@ -1,0 +1,29 @@
+h1 {
+    font-size: 1.9rem;
+    position: relative;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: aliceblue;
+
+}
+
+p {
+    text-align:center;
+    background-color: red;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.btn {
+    font-size: 1.8rem;
+    padding: 1rem 0;
+    width: 20rem;
+    border: 0.1rem solid #56a5eb;
+    text-decoration: none;
+    color: #083761;
+    background-color: white;
+    text-align:center;
+}
+
+body {
+    background-image: url(https://www.e-kern.com/fileadmin/user_upload/Images_Allgemein/Slider/kern_it_85103537_1920x1080px.jpg) 
+}
