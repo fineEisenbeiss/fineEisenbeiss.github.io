@@ -1,0 +1,28 @@
+
+h1 {
+    color: blue;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h2 {
+    color: lightskyblue;
+    font-size: 5.3rem;
+    text-align: center;
+    border: 2px solid teal;
+}
+
+body {
+    background-image: url("https://img.freepik.com/free-vector/aesthetic-phone-wallpaper-background-vector-leaf-shadow-with-natural-light_53876-136590.jpg?w=2000");
+}
+
+p {
+    background-color: rebeccapurple;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 1.7rem;
+}
+
+a {
+    color: chartreuse;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 2.0rem;
+}
