@@ -20,9 +20,10 @@ p {
     width: 20rem;
     border: 0.5rem solid #f20606;
     text-decoration: none;
-    color: #4a0404;
+    color: #f65151;
     background-color: rgb(125, 28, 152);
     text-align:center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 body {
